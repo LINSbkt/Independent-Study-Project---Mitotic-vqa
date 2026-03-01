@@ -226,4 +226,4 @@ results/
 # Model weights
 *.pth
 *.pt
-*.ckpt
+*.ckptvenv/
