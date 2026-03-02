@@ -1,5 +1,6 @@
 ## Segmentation-Guided Spatial Grounding for Mitotic Figure VQA
 Independent Study Project | Reed College | Spring 2025
+
 Advisor: Anna Ritz   
 Student: Tran Bao Khanh 
 ## Overview
